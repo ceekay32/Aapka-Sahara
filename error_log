@@ -1,0 +1,1 @@
+[28-Mar-2021 05:48:08 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'preetkin_aapkasahara'@'localhost' to database 'aapkasahara' in /home2/preetkin/public_html/raolpatel.in/db.php on line 4
